@@ -1,0 +1,753 @@
+City_id,CityName,STATE_ABR,State_NM
+1,"Peach Springs, AZ",AZ,Arizona
+2,"Pogo Mines, AK",AK,Alaska
+3,"Apalachicola, FL",FL,Florida
+4,"Allentown/Bethlehem/Easton, PA",PA,Pennsylvania
+5,"Abilene, TX",TX,Texas
+6,"Ambler, AK",AK,Alaska
+7,"Albuquerque, NM",NM,"New Mexico"
+8,"Aberdeen, SD",SD,"South Dakota"
+9,"Albany, GA",GA,Georgia
+10,"Nantucket, MA",MA,Massachusetts
+11,"Waco, TX",TX,Texas
+12,"Arcata/Eureka, CA",CA,California
+13,"Atlantic City, NJ",NJ,"New Jersey"
+14,"Adak Island, AK",AK,Alaska
+15,"Kodiak, AK",AK,Alaska
+16,"Dallas, TX",TX,Texas
+17,"Allakaket, AK",AK,Alaska
+18,"Alexandria, LA",LA,Louisiana
+19,"Dallas/Fort Worth, TX",TX,Texas
+20,"Angoon, AK",AK,Alaska
+21,"Augusta, GA",GA,Georgia
+22,"Athens, GA",GA,Georgia
+23,"Alliance, NE",NE,Nebraska
+24,"Wainwright, AK",AK,Alaska
+25,"Atka, AK",AK,Alaska
+26,"Akiak, AK",AK,Alaska
+27,"King Salmon, AK",AK,Alaska
+28,"Anaktuvuk Pass, AK",AK,Alaska
+29,"Albany, NY",NY,"New York"
+30,"Waterloo, IA",IA,Iowa
+31,"Alamosa, CO",CO,Colorado
+32,"Walla Walla, WA",WA,Washington
+33,"Amarillo, TX",TX,Texas
+34,"Anchorage, AK",AK,Alaska
+35,"Aniak, AK",AK,Alaska
+36,"Anvik, AK",AK,Alaska
+37,"Altoona, PA",PA,Pennsylvania
+38,"Denver, CO",CO,Colorado
+39,"Napa, CA",CA,California
+40,"Naples, FL",FL,Florida
+41,"Alpena, MI",MI,Michigan
+42,"Arctic Village, AK",AK,Alaska
+43,"Watertown, NY",NY,"New York"
+44,"Aspen, CO",CO,Colorado
+45,"Atqasuk, AK",AK,Alaska
+46,"Atlanta, GA",GA,Georgia
+47,"Atmautluak, AK",AK,Alaska
+48,"Appleton, WI",WI,Wisconsin
+49,"Watertown, SD",SD,"South Dakota"
+50,"Augusta/Waterville, ME",ME,Maine
+51,"Alakanuk, AK",AK,Alaska
+52,"Austin, TX",TX,Texas
+53,"Asheville, NC",NC,"North Carolina"
+54,"Scranton/Wilkes-Barre, PA",PA,Pennsylvania
+55,"Tucson, AZ",AZ,Arizona
+56,"Wake Island, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+57,"Eagle Nest, NM",NM,"New Mexico"
+58,"Glendale, AZ",AZ,Arizona
+59,"Phoenix, AZ",AZ,Arizona
+60,"Kalamazoo, MI",MI,Michigan
+61,"Shreveport, LA",LA,Louisiana
+62,"Westfield, MA",MA,Massachusetts
+63,"Blacksburg, VA",VA,Virginia
+64,"Boca Raton, FL",FL,Florida
+65,"Hartford, CT",CT,Connecticut
+66,"Bridgeport, CT",CT,Connecticut
+67,"Bedford, MA",MA,Massachusetts
+68,"Bethel, AK",AK,Alaska
+69,"Bradford, PA",PA,Pennsylvania
+70,"Scottsbluff, NE",NE,Nebraska
+71,"Seattle, WA",WA,Washington
+72,"Bakersfield, CA",CA,California
+73,"Mobile, AL",AL,Alabama
+74,"Beaufort, SC",SC,"South Carolina"
+75,"Binghamton, NY",NY,"New York"
+76,"Bangor, ME",ME,Maine
+77,"Bar Harbor, ME",ME,Maine
+78,"Bullhead City, AZ",AZ,Arizona
+79,"Birmingham, AL",AL,Alabama
+80,"Block Island, RI",RI,"Rhode Island"
+81,"El Paso, TX",TX,Texas
+82,"Bishop, CA",CA,California
+83,"Billings, MT",MT,Montana
+84,"Bismarck/Mandan, ND",ND,"North Dakota"
+85,"Broomfield, CO",CO,Colorado
+86,"Bemidji, MN",MN,Minnesota
+87,"Buckland, AK",AK,Alaska
+88,"Beckley, WV",WV,"West Virginia"
+89,"Boulder City, NV",NV,Nevada
+90,"Bellingham, WA",WA,Washington
+91,"Belleville, IL",IL,Illinois
+92,"Bloomington, IN",IN,Indiana
+93,"Bloomington/Normal, IL",IL,Illinois
+94,"Nashville, TN",TN,Tennessee
+95,"Boise, ID",ID,Idaho
+96,"Boston, MA",MA,Massachusetts
+97,"Beaumont/Port Arthur, TX",TX,Texas
+98,"Brunswick, GA",GA,Georgia
+99,"Aguadilla, PR",PR,"Puerto Rico"
+100,"Brainerd, MN",MN,Minnesota
+101,"Burlington, IA",IA,Iowa
+102,"Brownsville, TX",TX,Texas
+103,"Barrow, AK",AK,Alaska
+104,"Barter Island, AK",AK,Alaska
+105,"Butte, MT",MT,Montana
+106,"Baton Rouge, LA",LA,Louisiana
+107,"Bettles, AK",AK,Alaska
+108,"Burlington, VT",VT,Vermont
+109,"Buffalo, NY",NY,"New York"
+110,"Burbank, CA",CA,California
+111,"Beverly, MA",MA,Massachusetts
+112,"Brownwood, TX",TX,Texas
+113,"Bowling Green, KY",KY,Kentucky
+114,"Baltimore, MD",MD,Maryland
+115,"Bozeman, MT",MT,Montana
+116,"Camarillo, CA",CA,California
+117,"Columbia, SC",SC,"South Carolina"
+118,"Akron, OH",OH,Ohio
+119,"Concord, CA",CA,California
+120,"Cold Bay, AK",AK,Alaska
+121,"Cedar City, UT",UT,Utah
+122,"Chadron, NE",NE,Nebraska
+123,"Cordova, AK",AK,Alaska
+124,"Crescent City, CA",CA,California
+125,"Chicopee Falls, MA",MA,Massachusetts
+126,"Central, AK",AK,Alaska
+127,"Cortez, CO",CO,Colorado
+128,"Clifton, AZ",AZ,Arizona
+129,"Cape Girardeau, MO",MO,Missouri
+130,"Chattanooga, TN",TN,Tennessee
+131,"Charlottesville, VA",VA,Virginia
+132,"Charleston, SC",SC,"South Carolina"
+133,"Chuathbaluk, AK",AK,Alaska
+134,"Chico, CA",CA,California
+135,"Cedar Rapids/Iowa City, IA",IA,Iowa
+136,"Chalkyitsik, AK",AK,Alaska
+137,"Sault Ste. Marie, MI",MI,Michigan
+138,"Clarksburg/Fairmont, WV",WV,"West Virginia"
+139,"Crooked Creek, AK",AK,Alaska
+140,"Chicken, AK",AK,Alaska
+141,"Carlsbad, CA",CA,California
+142,"Cleveland, OH",OH,Ohio
+143,"College Station/Bryan, TX",TX,Texas
+144,"Port Angeles, WA",WA,Washington
+145,"Clarks Point, AK",AK,Alaska
+146,"Charlotte, NC",NC,"North Carolina"
+147,"Columbus, OH",OH,Ohio
+148,"Champaign/Urbana, IL",IL,Illinois
+149,"Hancock/Houghton, MI",MI,Michigan
+150,"Carlsbad, NM",NM,"New Mexico"
+151,"Chino, CA",CA,California
+152,"Moab, UT",UT,Utah
+153,"Cody, WY",WY,Wyoming
+154,"Cocoa Beach, FL",FL,Florida
+155,"Concord, NH",NH,"New Hampshire"
+156,"Colorado Springs, CO",CO,Colorado
+157,"Columbia, MO",MO,Missouri
+158,"Casper, WY",WY,Wyoming
+159,"St. Louis, MO",MO,Missouri
+160,"Culebra, PR",PR,"Puerto Rico"
+161,"Jacksonville, FL",FL,Florida
+162,"Corpus Christi, TX",TX,Texas
+163,"Charleston/Dunbar, WV",WV,"West Virginia"
+164,"Columbus, GA",GA,Georgia
+165,"Cincinnati, OH",KY,Kentucky
+166,"Clovis, NM",NM,"New Mexico"
+167,"Corvallis, OR",OR,Oregon
+168,"Mosinee, WI",WI,Wisconsin
+169,"Coldfoot, AK",AK,Alaska
+170,"Chefornak, AK",AK,Alaska
+171,"Cheyenne, WY",WY,Wyoming
+172,"Cape Romanzof, AK",AK,Alaska
+173,"Chisana, AK",AK,Alaska
+174,"Daytona Beach, FL",FL,Florida
+175,"Dayton, OH",OH,Ohio
+176,"Dubuque, IA",IA,Iowa
+177,"Washington, DC",VA,Virginia
+178,"Dodge City, KS",KS,Kansas
+179,"Decatur, IL",IL,Illinois
+180,"Dothan, AL",AL,Alabama
+181,"Dickinson, ND",ND,"North Dakota"
+182,"Diomede Island, AK",AK,Alaska
+183,"Dillingham, AK",AK,Alaska
+184,"Duluth, MN",MN,Minnesota
+185,"Dover, DE",DE,Delaware
+186,"Springfield, TN",TN,Tennessee
+187,"Fort Drum, NY",NY,"New York"
+188,"Deering, AK",AK,Alaska
+189,"Durango, CO",CO,Colorado
+190,"Del Rio, TX",TX,Texas
+191,"Des Moines, IA",IA,Iowa
+192,"Denton, TX",TX,Texas
+193,"Detroit, MI",MI,Michigan
+194,"DuBois, PA",PA,Pennsylvania
+195,"Unalaska, AK",AK,Alaska
+196,"Devils Lake, ND",ND,"North Dakota"
+197,"Eagle, AK",AK,Alaska
+198,"Kearney, NE",NE,Nebraska
+199,"Wenatchee, WA",WA,Washington
+200,"Eau Claire, WI",WI,Wisconsin
+201,"Panama City, FL",FL,Florida
+202,"Edwards, CA",CA,California
+203,"Eek, AK",AK,Alaska
+204,"Eagle, CO",CO,Colorado
+205,"Egegik, AK",AK,Alaska
+206,"Cape Newenham, AK",AK,Alaska
+207,"Elko, NV",NV,Nevada
+208,"El Dorado, AR",AR,Arkansas
+209,"Elim, AK",AK,Alaska
+210,"Elmira/Corning, NY",NY,"New York"
+211,"Elfin Cove, AK",AK,Alaska
+212,"Emmonak, AK",AK,Alaska
+213,"El Monte, CA",CA,California
+214,"Kenai, AK",AK,Alaska
+215,"Erie, PA",PA,Pennsylvania
+216,"Escanaba, MI",MI,Michigan
+217,"Eastsound, WA",WA,Washington
+218,"Eugene, OR",OR,Oregon
+219,"Evansville, IN",IN,Indiana
+220,"New Bedford/Fall River, MA",MA,Massachusetts
+221,"New Bern/Morehead/Beaufort, NC",NC,"North Carolina"
+222,"Newark, NJ",NJ,"New Jersey"
+223,"Key West, FL",FL,Florida
+224,"Fairbanks, AK",AK,Alaska
+225,"Fargo, ND",ND,"North Dakota"
+226,"Fresno, CA",CA,California
+227,"Fayetteville, NC",NC,"North Carolina"
+228,"Kalispell, MT",MT,Montana
+229,"Zephyrhills, FL",FL,Florida
+230,"Flagstaff, AZ",AZ,Arizona
+231,"Fort Lauderdale, FL",FL,Florida
+232,"Florence, SC",SC,"South Carolina"
+233,"Farmington, NM",NM,"New Mexico"
+234,"Flint, MI",MI,Michigan
+235,"Fort Dodge, IA",IA,Iowa
+236,"Topeka, KS",KS,Kansas
+237,"Westhampton, NY",NY,"New York"
+238,"Friday Harbor, WA",WA,Washington
+239,"East Farmingdale, NY",NY,"New York"
+240,"Sioux Falls, SD",SD,"South Dakota"
+241,"Fort Smith, AR",AR,Arkansas
+242,"Aurora, OR",OR,Oregon
+243,"Fort Wayne, IN",IN,Indiana
+244,"Fort Yukon, AK",AK,Alaska
+245,"Fayetteville, AR",AR,Arkansas
+246,"Gaithersburg, MD",MD,Maryland
+247,"Galena, AK",AK,Alaska
+248,"Gambell, AK",AK,Alaska
+249,"Galbraith Lake, AK",AK,Alaska
+250,"Gillette, WY",WY,Wyoming
+251,"Garden City, KS",KS,Kansas
+252,"Grand Canyon, AZ",AZ,Arizona
+253,"Greenville, SC",SC,"South Carolina"
+254,"Glendive, MT",MT,Montana
+255,"Georgetown, DE",DE,Delaware
+256,"Spokane, WA",WA,Washington
+257,"Grand Forks, ND",ND,"North Dakota"
+258,"Longview, TX",TX,Texas
+259,"Glasgow, MT",MT,Montana
+260,"Grand Junction, CO",CO,Colorado
+261,"Gulkana, AK",AK,Alaska
+262,"Greenville, MS",MS,Mississippi
+263,"Gaylord, MI",MI,Michigan
+264,"Golovin, AK",AK,Alaska
+265,"Goodnews Bay, AK",AK,Alaska
+266,"Gainesville, FL",FL,Florida
+267,"Gulfport/Biloxi, MS",MS,Mississippi
+268,"Green Bay, WI",WI,Wisconsin
+269,"Grand Island, NE",NE,Nebraska
+270,"Killeen, TX",TX,Texas
+271,"Grand Rapids, MI",MI,Michigan
+272,"Greensboro/High Point, NC",NC,"North Carolina"
+273,"Greer, SC",SC,"South Carolina"
+274,"Gustavus, AK",AK,Alaska
+275,"Great Falls, MT",MT,Montana
+276,"Columbus, MS",MS,Mississippi
+277,"Gunnison, CO",CO,Colorado
+278,"Guam, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+279,"Gallup, NM",NM,"New Mexico"
+280,"Gary, IN",IN,Indiana
+281,"Holy Cross, AK",AK,Alaska
+282,"Hayden, CO",CO,Colorado
+283,"Hagerstown, MD",MD,Maryland
+284,"Hilton Head, SC",SC,"South Carolina"
+285,"Hawthorne, CA",CA,California
+286,"Hibbing, MN",MN,Minnesota
+287,"Lake Havasu City, AZ",AZ,Arizona
+288,"Honolulu, HI",HI,Hawaii
+289,"Hillsboro, OR",OR,Oregon
+290,"Healy, AK",AK,Alaska
+291,"Hickory, NC",NC,"North Carolina"
+292,"Helena, MT",MT,Montana
+293,"Hoonah, AK",AK,Alaska
+294,"Hana, HI",HI,Hawaii
+295,"Haines, AK",AK,Alaska
+296,"Hobbs, NM",NM,"New Mexico"
+297,"Homer, AK",AK,Alaska
+298,"Hot Springs, AR",AR,Arkansas
+299,"Houston, TX",TX,Texas
+300,"Hooper Bay, AK",AK,Alaska
+301,"White Plains, NY",NY,"New York"
+302,"Harlingen/San Benito, TX",TX,Texas
+303,"Harrison, AR",AR,Arkansas
+304,"Las Vegas, NV",NV,Nevada
+305,"Huslia, AK",AK,Alaska
+306,"Huntsville, AL",AL,Alabama
+307,"East Hampton, NY",NY,"New York"
+308,"Ashland, WV",WV,"West Virginia"
+309,"Hughes, AK",AK,Alaska
+310,"New Haven, CT",CT,Connecticut
+311,"Havre, MT",MT,Montana
+312,"Hyannis, MA",MA,Massachusetts
+313,"Hays, KS",KS,Kansas
+314,"Wichita, KS",KS,Kansas
+315,"Niagara Falls, NY",NY,"New York"
+316,"Kiana, AK",AK,Alaska
+317,"Idaho Falls, ID",ID,Idaho
+318,"Igiugig, AK",AK,Alaska
+319,"Nikolski, AK",AK,Alaska
+320,"Wilmington, DE",DE,Delaware
+321,"Iliamna, AK",AK,Alaska
+322,"Wilmington, NC",NC,"North Carolina"
+323,"Wilmington, OH",OH,Ohio
+324,"Iron Mountain/Kingsfd, MI",MI,Michigan
+325,"Indianapolis, IN",IN,Indiana
+326,"International Falls, MN",MN,Minnesota
+327,"Winston-Salem, NC",NC,"North Carolina"
+328,"El Centro, CA",CA,California
+329,"Williamsport, PA",PA,Pennsylvania
+330,"Circle, AK",AK,Alaska
+331,"Kirksville, MO",MO,Missouri
+332,"Orlando, FL",FL,Florida
+333,"Islip, NY",NY,"New York"
+334,"Ithaca/Cortland, NY",NY,"New York"
+335,"Hilo, HI",HI,Hawaii
+336,"Ironwood, MI",MI,Michigan
+337,"Inyokern, CA",CA,California
+338,"Jackson, WY",WY,Wyoming
+339,"Jackson/Vicksburg, MS",MS,Mississippi
+340,"Jonesboro, AR",AR,Arkansas
+341,"New York, NY",NY,"New York"
+342,"Kapalua, HI",HI,Hawaii
+343,"Joplin, MO",MO,Missouri
+344,"Jamestown, ND",ND,"North Dakota"
+345,"Juneau, AK",AK,Alaska
+346,"Concord, NC",NC,"North Carolina"
+347,"Johnstown, PA",PA,Pennsylvania
+348,"Brooksville, FL",FL,Florida
+349,"Arlington, TX",TX,Texas
+350,"Kake, AK",AK,Alaska
+351,"Kaltag, AK",AK,Alaska
+352,"Birch Creek, AK",AK,Alaska
+353,"Chignik Bay, AK",AK,Alaska
+354,"Chignik Lagoon, AK",AK,Alaska
+355,"Chignik, AK",AK,Alaska
+356,"Nanwalek, AK",AK,Alaska
+357,"Kenmore, WA",WA,Washington
+358,"Ekwok, AK",AK,Alaska
+359,"False Pass, AK",AK,Alaska
+360,"Koliganek, AK",AK,Alaska
+361,"Grayling, AK",AK,Alaska
+362,"Koyuk, AK",AK,Alaska
+363,"Kongiganak, AK",AK,Alaska
+364,"Akiachak, AK",AK,Alaska
+365,"Kalskag, AK",AK,Alaska
+366,"Levelock, AK",AK,Alaska
+367,"Klawock, AK",AK,Alaska
+368,"Manokotak, AK",AK,Alaska
+369,"New Stuyahok, AK",AK,Alaska
+370,"Kona, HI",HI,Hawaii
+371,"Kotlik, AK",AK,Alaska
+372,"Kipnuk, AK",AK,Alaska
+373,"Perryville, AK",AK,Alaska
+374,"Akutan, AK",AK,Alaska
+375,"St. Mary's, AK",AK,Alaska
+376,"Ketchikan, AK",AK,Alaska
+377,"Brevig Mission, AK",AK,Alaska
+378,"Kasigluk, AK",AK,Alaska
+379,"King Cove, AK",AK,Alaska
+380,"Kivalina, AK",AK,Alaska
+381,"Kwigillingok, AK",AK,Alaska
+382,"Quinhagak, AK",AK,Alaska
+383,"Kwethluk, AK",AK,Alaska
+384,"Koyukuk, AK",AK,Alaska
+385,"Lafayette, IN",IN,Indiana
+386,"Lakeland, FL",FL,Florida
+387,"Lansing, MI",MI,Michigan
+388,"Laramie, WY",WY,Wyoming
+389,"Lawton/Fort Sill, OK",OK,Oklahoma
+390,"Los Angeles, CA",CA,California
+391,"Lubbock, TX",TX,Texas
+392,"Latrobe, PA",PA,Pennsylvania
+393,"North Platte, NE",NE,Nebraska
+394,"Liberal, KS",KS,Kansas
+395,"Lake Charles, LA",LA,Louisiana
+396,"Lebanon-Hanover, NH",NH,"New Hampshire"
+397,"Leesburg, FL",FL,Florida
+398,"Lexington, KY",KY,Kentucky
+399,"Lafayette, LA",LA,Louisiana
+400,"Long Beach, CA",CA,California
+401,"LaGrange, GA",GA,Georgia
+402,"Lihue, HI",HI,Hawaii
+403,"Little Rock, AR",AR,Arkansas
+404,"Lake Placid, NY",NY,"New York"
+405,"Lake Minchumina, AK",AK,Alaska
+406,"Klamath Falls, OR",OR,Oregon
+407,"Lincoln, NE",NE,Nebraska
+408,"Lancaster, PA",PA,Pennsylvania
+409,"Lanai, HI",HI,Hawaii
+410,"Lopez Island, WA",WA,Washington
+411,"Little Port Walter, AK",AK,Alaska
+412,"Laredo, TX",TX,Texas
+413,"Las Cruces, NM",NM,"New Mexico"
+414,"La Crosse, WI",WI,Wisconsin
+415,"Cincinnati, OH",OH,Ohio
+416,"Kalaupapa, HI",HI,Hawaii
+417,"Cape Lisburne, AK",AK,Alaska
+418,"Las Vegas, NM",NM,"New Mexico"
+419,"Lewisburg, WV",WV,"West Virginia"
+420,"Lawrence, MA",MA,Massachusetts
+421,"Lewiston, ID",ID,Idaho
+422,"Lynchburg, VA",VA,Virginia
+423,"Midland/Odessa, TX",TX,Texas
+424,"Mayaguez, PR",PR,"Puerto Rico"
+425,"Manistee/Ludington, MI",MI,Michigan
+426,"Saginaw/Bay City/Midland, MI",MI,Michigan
+427,"Sacramento, CA",CA,California
+428,"Merced, CA",CA,California
+429,"McGrath, AK",AK,Alaska
+430,"Kansas City, MO",MO,Missouri
+431,"McCook, NE",NE,Nebraska
+432,"Macon, GA",GA,Georgia
+433,"Mason City, IA",IA,Iowa
+434,"Harrisburg, PA",PA,Pennsylvania
+435,"Chicago, IL",IL,Illinois
+436,"Meridian, MS",MS,Mississippi
+437,"Memphis, TN",TN,Tennessee
+438,"Manteo, NC",NC,"North Carolina"
+439,"Mission/McAllen/Edinburg, TX",TX,Texas
+440,"Medford, OR",OR,Oregon
+441,"Montgomery, AL",AL,Alabama
+442,"Morgantown, WV",WV,"West Virginia"
+443,"Manhattan/Ft. Riley, KS",KS,Kansas
+444,"Manchester, NH",NH,"New Hampshire"
+445,"Miami, FL",FL,Florida
+446,"Muncie/Anderson/Newcastle, IN",IN,Indiana
+447,"Milwaukee, WI",WI,Wisconsin
+448,"Muskegon, MI",MI,Michigan
+449,"Hoolehua, HI",HI,Hawaii
+450,"Jackson, TN",TN,Tennessee
+451,"Melbourne, FL",FL,Florida
+452,"Moline, IL",IL,Illinois
+453,"Marshall, AK",AK,Alaska
+454,"Monroe, LA",LA,Louisiana
+455,"Manley Hot Springs, AK",AK,Alaska
+456,"Mammoth Lakes, CA",CA,California
+457,"Morristown, NJ",NJ,"New Jersey"
+458,"Minto, AK",AK,Alaska
+459,"Minot, ND",ND,"North Dakota"
+460,"Mountain Village, AK",AK,Alaska
+461,"Marquette, MI",MI,Michigan
+462,"Smyrna, TN",TN,Tennessee
+463,"Marco Island, FL",FL,Florida
+464,"Monterey, CA",CA,California
+465,"Muscle Shoals, AL",AL,Alabama
+466,"Madison, WI",WI,Wisconsin
+467,"Missoula, MT",MT,Montana
+468,"Minneapolis, MN",MN,Minnesota
+469,"Massena, NY",NY,"New York"
+470,"New Orleans, LA",LA,Louisiana
+471,"Marathon, FL",FL,Florida
+472,"Montrose/Delta, CO",CO,Colorado
+473,"Kamuela, HI",HI,Hawaii
+474,"Burlington/Mount Vernon, WA",WA,Washington
+475,"Martha's Vineyard, MA",MA,Massachusetts
+476,"Marion/Herrin, IL",IL,Illinois
+477,"McCarthy, AK",AK,Alaska
+478,"May Creek, AK",AK,Alaska
+479,"Myrtle Beach, SC",SC,"South Carolina"
+480,"Mekoryuk, AK",AK,Alaska
+481,"Marana, AZ",AZ,Arizona
+482,"Chenega, AK",AK,Alaska
+483,"Norfolk, VA",VA,Virginia
+484,"Nikolai, AK",AK,Alaska
+485,"Nelson Lagoon, AK",AK,Alaska
+486,"Nightmute, AK",AK,Alaska
+487,"Newport, RI",RI,"Rhode Island"
+488,"Nuiqsut, AK",AK,Alaska
+489,"Nulato, AK",AK,Alaska
+490,"Nunapitchuk, AK",AK,Alaska
+491,"Mountain View, CA",CA,California
+492,"Yuma, AZ",AZ,Arizona
+493,"Jacksonville/Camp Lejeune, NC",NC,"North Carolina"
+494,"Oakland, CA",CA,California
+495,"Kobuk, AK",AK,Alaska
+496,"Ocala, FL",FL,Florida
+497,"Ogden, UT",UT,Utah
+498,"Kahului, HI",HI,Hawaii
+499,"Ogdensburg, NY",NY,"New York"
+500,"Oklahoma City, OK",OK,Oklahoma
+501,"Wolf Point, MT",MT,Montana
+502,"Omaha, NE",NE,Nebraska
+503,"Nome, AK",AK,Alaska
+504,"Newport, OR",OR,Oregon
+505,"Ontario, CA",CA,California
+506,"Toksook, AK",AK,Alaska
+507,"Worcester, MA",MA,Massachusetts
+508,"Noorvik, AK",AK,Alaska
+509,"Oscoda, MI",MI,Michigan
+510,"North Bend/Coos Bay, OR",OR,Oregon
+511,"Kotzebue, AK",AK,Alaska
+512,"Owensboro, KY",KY,Kentucky
+513,"Norwood, MA",MA,Massachusetts
+514,"Waterbury, CT",CT,Connecticut
+515,"Oxnard/Ventura, CA",CA,California
+516,"Everett, WA",WA,Washington
+517,"Paducah, KY",KY,Kentucky
+518,"Plattsburgh, NY",NY,"New York"
+519,"West Palm Beach/Palm Beach, FL",FL,Florida
+520,"Princeton, NJ",NJ,"New Jersey"
+521,"Pendleton, OR",OR,Oregon
+522,"Portland, OR",OR,Oregon
+523,"Pelican, AK",AK,Alaska
+524,"Page, AZ",AZ,Arizona
+525,"Punta Gorda, FL",FL,Florida
+526,"Port Graham, AK",AK,Alaska
+527,"Greenville, NC",NC,"North Carolina"
+528,"Newport News/Williamsburg, VA",VA,Virginia
+529,"Philadelphia, PA",PA,Pennsylvania
+530,"Point Hope, AK",AK,Alaska
+531,"Peoria, IL",IL,Illinois
+532,"Hattiesburg/Laurel, MS",MS,Mississippi
+533,"St. Petersburg, FL",FL,Florida
+534,"Pocatello, ID",ID,Idaho
+535,"Pilot Point, AK",AK,Alaska
+536,"Pierre, SD",SD,"South Dakota"
+537,"Pittsburgh, PA",PA,Pennsylvania
+538,"Point Lay, AK",AK,Alaska
+539,"Napaskiak, AK",AK,Alaska
+540,"Parkersburg, WV",WV,"West Virginia"
+541,"Pellston, MI",MI,Michigan
+542,"Port Moller, AK",AK,Alaska
+543,"Pensacola, FL",FL,Florida
+544,"Prospect Creek, AK",AK,Alaska
+545,"Pago Pago, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+546,"Pompano Beach, FL",FL,Florida
+547,"Presque Isle/Houlton, ME",ME,Maine
+548,"Pilot Station, AK",AK,Alaska
+549,"Prescott, AZ",AZ,Arizona
+550,"Pasco/Kennewick/Richland, WA",WA,Washington
+551,"Ponce, PR",PR,"Puerto Rico"
+552,"Petersburg, AK",AK,Alaska
+553,"Dublin, VA",VA,Virginia
+554,"Portsmouth, NH",NH,"New Hampshire"
+555,"Palm Springs, CA",CA,California
+556,"Port Alexander, AK",AK,Alaska
+557,"Port Heiden, AK",AK,Alaska
+558,"Pontiac, MI",MI,Michigan
+559,"Port Armstrong, AK",AK,Alaska
+560,"Platinum, AK",AK,Alaska
+561,"Pueblo, CO",CO,Colorado
+562,"Pullman, WA",WA,Washington
+563,"Provincetown, MA",MA,Massachusetts
+564,"Providence, RI",RI,"Rhode Island"
+565,"Provo, UT",UT,Utah
+566,"Plainview, TX",TX,Texas
+567,"Portland, ME",ME,Maine
+568,"Rapid City, SD",SD,"South Dakota"
+569,"Roseburg, OR",OR,Oregon
+570,"Fort Jefferson, FL",FL,Florida
+571,"Ruby, AK",AK,Alaska
+572,"Roche Harbor, WA",WA,Washington
+573,"Red Dog, AK",AK,Alaska
+574,"Redding, CA",CA,California
+575,"Bend/Redmond, OR",OR,Oregon
+576,"Raleigh/Durham, NC",NC,"North Carolina"
+577,"Red Devil, AK",AK,Alaska
+578,"Rockford, IL",IL,Illinois
+579,"Rhinelander, WI",WI,Wisconsin
+580,"Richmond, VA",VA,Virginia
+581,"Rifle, CO",CO,Colorado
+582,"Riverside, CA",CA,California
+583,"Riverton/Lander, WY",WY,Wyoming
+584,"Rockland, ME",ME,Maine
+585,"Rock Springs, WY",WY,Wyoming
+586,"Stafford, VA",VA,Virginia
+587,"Rampart, AK",AK,Alaska
+588,"Reno, NV",NV,Nevada
+589,"Roanoke, VA",VA,Virginia
+590,"Rochester, NY",NY,"New York"
+591,"Rota, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+592,"Roswell, NM",NM,"New Mexico"
+593,"Russian Mission, AK",AK,Alaska
+594,"Rochester, MN",MN,Minnesota
+595,"Fort Myers, FL",FL,Florida
+596,"Rutland, VT",VT,Vermont
+597,"Safford, AZ",AZ,Arizona
+598,"Santa Fe, NM",NM,"New Mexico"
+599,"San Diego, CA",CA,California
+600,"San Antonio, TX",TX,Texas
+601,"Savannah, GA",GA,Georgia
+602,"Santa Barbara, CA",CA,California
+603,"San Bernardino, CA",CA,California
+604,"South Bend, IN",IN,Indiana
+605,"San Luis Obispo, CA",CA,California
+606,"Salisbury, MD",MD,Maryland
+607,"Deadhorse, AK",AK,Alaska
+608,"State College, PA",PA,Pennsylvania
+609,"Stockton, CA",CA,California
+610,"Scammon Bay, AK",AK,Alaska
+611,"Louisville, KY",KY,Kentucky
+612,"Sandpoint, AK",AK,Alaska
+613,"Sidney, MT",MT,Montana
+614,"Sanford, FL",FL,Florida
+615,"San Francisco, CA",CA,California
+616,"Springfield, MO",MO,Missouri
+617,"Sugar Land, TX",TX,Texas
+618,"St. George, UT",UT,Utah
+619,"Skagway, AK",AK,Alaska
+620,"Staunton, VA",VA,Virginia
+621,"Shungnak, AK",AK,Alaska
+622,"Shishmaref, AK",AK,Alaska
+623,"Sheridan, WY",WY,Wyoming
+624,"Shageluk, AK",AK,Alaska
+625,"Sitka, AK",AK,Alaska
+626,"San Jose, CA",CA,California
+627,"San Angelo, TX",TX,Texas
+628,"San Juan, PR",PR,"Puerto Rico"
+629,"Shaktoolik, AK",AK,Alaska
+630,"Skwentna, AK",AK,Alaska
+631,"Salt Lake City, UT",UT,Utah
+632,"Salem, OR",OR,Oregon
+633,"Saranac Lake/Lake Placid, NY",NY,"New York"
+634,"Salina, KS",KS,Kansas
+635,"Sleetmute, AK",AK,Alaska
+636,"St. Michael, AK",AK,Alaska
+637,"Santa Maria, CA",CA,California
+638,"Santa Ana, CA",CA,California
+639,"St. Paul, AK",AK,Alaska
+640,"Seldovia, AK",AK,Alaska
+641,"Show Low, AZ",AZ,Arizona
+642,"Springfield, IL",IL,Illinois
+643,"Saipan, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+644,"Wichita Falls, TX",TX,Texas
+645,"San Carlos, CA",CA,California
+646,"Sarasota/Bradenton, FL",FL,Florida
+647,"Stony River, AK",AK,Alaska
+648,"St. Cloud, MN",MN,Minnesota
+649,"St. George Island, AK",AK,Alaska
+650,"Santa Rosa, CA",CA,California
+651,"Charlotte Amalie, VI",VI,"U.S. Virgin Islands"
+652,"Christiansted, VI",VI,"U.S. Virgin Islands"
+653,"Stuart, FL",FL,Florida
+654,"Sun Valley/Hailey/Ketchum, ID",ID,Idaho
+655,"Fairfield, CA",CA,California
+656,"Sioux City, IA",IA,Iowa
+657,"Savoonga, AK",AK,Alaska
+658,"Silver City/Hurley, NM",NM,"New Mexico"
+659,"Stevens Village, AK",AK,Alaska
+660,"Newburgh/Poughkeepsie, NY",NY,"New York"
+661,"Stillwater, OK",OK,Oklahoma
+662,"Sheldon Point, AK",AK,Alaska
+663,"Soldotna, AK",AK,Alaska
+664,"Syracuse, NY",NY,"New York"
+665,"Tanana, AK",AK,Alaska
+666,"Fort Leonard Wood, MO",MO,Missouri
+667,"Tuscaloosa, AL",AL,Alabama
+668,"Tacoma, WA",WA,Washington
+669,"Takotna, AK",AK,Alaska
+670,"Teterboro, NJ",NJ,"New Jersey"
+671,"Tatitlek, AK",AK,Alaska
+672,"Telluride, CO",CO,Colorado
+673,"Tinian, TT",TT,"U.S. Pacific Trust Territories and Possessions"
+674,"Titusville, FL",FL,Florida
+675,"Tenakee, AK",AK,Alaska
+676,"Truckee, CA",CA,California
+677,"Tok, AK",AK,Alaska
+678,"Teller, AK",AK,Alaska
+679,"Tallahassee, FL",FL,Florida
+680,"Tatalina, AK",AK,Alaska
+681,"Tuluksak, AK",AK,Alaska
+682,"Tin City, AK",AK,Alaska
+683,"Tununak, AK",AK,Alaska
+684,"Togiak, AK",AK,Alaska
+685,"Toledo, OH",OH,Ohio
+686,"Tampa, FL",FL,Florida
+687,"Bristol/Johnson City/Kingsport, TN",TN,Tennessee
+688,"Thermal, CA",CA,California
+689,"Taos, NM",NM,"New Mexico"
+690,"Trenton, NJ",NJ,"New Jersey"
+691,"Tulsa, OK",OK,Oklahoma
+692,"Tupelo, MS",MS,Mississippi
+693,"Traverse City, MI",MI,Michigan
+694,"Thief River Falls, MN",MN,Minnesota
+695,"Twin Hills, AK",AK,Alaska
+696,"Twin Falls, ID",ID,Idaho
+697,"Texarkana, AR",AR,Arkansas
+698,"Tyonek, AK",AK,Alaska
+699,"Tyler, TX",TX,Texas
+700,"Knoxville, TN",TN,Tennessee
+701,"Chatham, MA",MA,Massachusetts
+702,"Bermuda Dunes, CA",CA,California
+703,"Waukegan, IL",IL,Illinois
+704,"Ugashik, AK",AK,Alaska
+705,"Quincy, IL",IL,Illinois
+706,"Ukiah, CA",CA,California
+707,"Unalakleet, AK",AK,Alaska
+708,"Oxford, MS",MS,Mississippi
+709,"Heber, UT",UT,Utah
+710,"Utopia, AK",AK,Alaska
+711,"Petaluma, CA",CA,California
+712,"Chevak, AK",AK,Alaska
+713,"Victoria, TX",TX,Texas
+714,"Victorville, CA",CA,California
+715,"Valdez, AK",AK,Alaska
+716,"Venetie, AK",AK,Alaska
+717,"Vernal, UT",UT,Utah
+718,"Visalia, CA",CA,California
+719,"Valdosta, GA",GA,Georgia
+720,"Venice, FL",FL,Florida
+721,"Van Nuys, CA",CA,California
+722,"Valparaiso, FL",FL,Florida
+723,"Vieques, PR",PR,"Puerto Rico"
+724,"Vero Beach, FL",FL,Florida
+725,"Wales, AK",AK,Alaska
+726,"Stebbins, AK",AK,Alaska
+727,"Beaver, AK",AK,Alaska
+728,"Selawik, AK",AK,Alaska
+729,"White Mountain, AK",AK,Alaska
+730,"Napakiak, AK",AK,Alaska
+731,"Wrangell, AK",AK,Alaska
+732,"South Naknek, AK",AK,Alaska
+733,"Westerly, RI",RI,"Rhode Island"
+734,"Noatak, AK",AK,Alaska
+735,"Tuntutuliak, AK",AK,Alaska
+736,"Newtok, AK",AK,Alaska
+737,"Lakeport, CA",CA,California
+738,"Yakutat, AK",AK,Alaska
+739,"Yakima, WA",WA,Washington
+740,"Beluga, AK",AK,Alaska
+741,"Plainville, CT",CT,Connecticut
+742,"Middletown, DE",DE,Delaware
+743,"West Chester, PA",PA,Pennsylvania
+744,"Marshfield, MA",MA,Massachusetts
+745,"Belfast, ME",ME,Maine
+746,"Walterboro, SC",SC,"South Carolina"
+747,"Akun, AK",AK,Alaska
+748,"Penn Yan, NY",NY,"New York"
+749,"Doylestown, PA",PA,Pennsylvania
+750,"West Palm Beach, FL",FL,Florida
+751,"Williston, ND",ND,"North Dakota"
+752,"Llano, TX",TX,Texas

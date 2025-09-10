@@ -1,0 +1,102 @@
+AIRLINE_ID,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,UNIQUE_CARRIER_ENTITY
+19393,WN,"Southwest Airlines Co.",06725
+19531,AC,"Air Canada",9900A
+19537,AV,"Aerovias Nacl De Colombia",9327A
+19687,QX,"Horizon Air",06580
+19690,HA,"Hawaiian Airlines Inc.",05375
+19790,DL,"Delta Air Lines Inc.",01260
+19805,AA,"American Airlines Inc.",0A050
+19821,TK,"Turk Hava Yollari A.O.",9679A
+19874,8C,"Air Transport International",06029
+19917,5X,"United Parcel Service",06910
+19930,AS,"Alaska Airlines Inc.",06031
+19977,UA,"United Air Lines Inc.",0A875
+20007,5Y,"Atlas Air Inc.",06087
+20046,ZW,"Air Wisconsin Airlines Corp",06024
+20100,PO,"Polar Air Cargo Airways",06758
+20107,FX,"Federal Express Corporation",06200
+20108,NC,"Northern Air Cargo Inc.",06721
+20151,M6,"Amerijet International",06052
+20166,GFQ,"Gulf And Caribbean Cargo",06565
+20169,L2,"Lynden Air Cargo Airlines",06699
+20177,PFQ,"Asia Pacific",16070
+20195,WI,"Sky Lease Cargo",16884
+20201,AMQ,"Ameristar Air Cargo",06055
+20207,XP,"TEM Enterprises dba  Avelo Airlines",06144
+20226,SNK,"Spernak Airways Inc.",06970
+20253,9K,"Hyannis Air Service, Inc. dba Cape Air",07021
+20261,ELL,"Ellis Air Taxi Inc.",06940
+20263,EM,"Empire Airlines Inc.",06299
+20267,GCH,"Grand Canyon Helicopters",06933
+20272,KAH,"Kenmore Air Harbor",06927
+20273,NEW,"New England Airlines Inc.",06924
+20304,OO,"SkyWest Airlines Inc.",06700
+20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",06076
+20319,2E,"Smokey Bay Air Inc.",06971
+20323,4W,Warbelow,06967
+20327,7H,"NEW PACIFIC AIRLINES",06989
+20330,7S,"Ryan Air f/k/a Arctic Transportation",06995
+20331,8E,"Bering Air Inc.",06992
+20333,8V,"Wright Air Service",06965
+20337,J5,"Kalinin Aviation LLC d/b/a Alaska Seaplanes",06997
+20341,KO,"Alaska Central Express",06019
+20342,Q5,"40-Mile Air",06999
+20363,9E,"Endeavor Air Inc.",07024
+20368,G4,"Allegiant Air",06035
+20370,KAQ,"Kalitta Air LLC",06683
+20377,X9,"Omni Air International LLC",06738
+20378,YV,"Mesa Airlines Inc.",06689
+20397,OH,"PSA Airlines Inc.",07028
+20398,MQ,"Envoy Air",06820
+20401,3M,"Silver Airways",06888
+20405,N8,"National Air Cargo Group Inc d/ba National Airlines",07029
+20408,5V,"Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo",06860
+20409,B6,"JetBlue Airways",06673
+20416,NK,"Spirit Air Lines",06830
+20422,SY,"Sun Country Airlines d/b/a MN Airlines",06795
+20424,YR,"Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",06942
+20427,PT,"Piedmont Airlines",06918
+20436,F9,"Frontier Airlines Inc.",06460
+20445,C5,"CommuteAir LLC dba CommuteAir",06944
+20447,U7,"USA Jet Airlines Inc.",06912
+20452,YX,"Republic Airline",06003
+20453,ABX,"ABX Air Inc",80006
+20455,GV,"Grant Aviation",06985
+20500,G7,"GoJet Airlines LLC d/b/a United Express",07041
+21022,Z3Q,"PM Air, LLC",01100
+21080,04Q,"Tradewind Aviation",01126
+21376,L7,"Lan Colombia",71078
+21386,X4,"Air Excursions LLC",01151
+21437,13Q,"Chartright Air Inc.",71093
+21477,VC,"Via Airlines d/b/a Sterling Airways",01158
+21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",01159
+21518,1EQ,"KaiserAir, Inc.",01162
+21568,VJT,"VistaJet Limited",71123
+21570,S2,"Star Marianas Air Inc.",01169
+21582,RVQ,"Reeve Air Alaska, LLC",01173
+21594,I4,"Scott Air LLC dba Island Air Express",01175
+21599,4B,"Boutique Air",01177
+21610,RV,"Air Canada rouge LP",71139
+21614,1QQ,"City Wings Inc dba Seaflight",01167
+21618,9X,"Southern Airways Express, dba Mokulele Airlines",01168
+21629,KD,"Western Global",01183
+21634,KH,"Aloha Air Cargo",01146
+21635,LF,"CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle",01189
+21652,27Q,"Jet Aviation Flight Services, Inc.",01194
+21656,2AQ,"ABS JETS A.S",71150
+21673,JN,"J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit",01932
+21718,2JQ,"Delux Public Charter LLC",01202
+21745,2NQ,"LIMA NY Corp d/b/a Fly The Whale",01205
+21820,K2,"Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",01212
+21879,KG,"Key Lime Air Corp dba Denver Air Connection",01228
+21894,AN,"ADVANCED AIR, LLC",01229
+21909,3AQ,"Maritime Helicopters, Inc.",01230
+21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",01234
+22068,PAF,"Pathfinder Aviation",01241
+22075,3KQ,"Junipogo, LLC",01267
+22080,MX,"Breeze Aviation Group DBA  Breeze",01268
+22083,BAS,"Baranautica Air Service LLC",01931
+22085,GCA,"Global Crossing Airlines, Inc.",01287
+22105,6F,"FOX AIRCRAFT, LLC",01288
+22127,BQJ,"Brenzil Pty. Ltd. d/b/a Brenzil Jet Charter",71291
+22135,EDQ,"Air Charter Scotland Ltd.",71299
